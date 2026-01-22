@@ -1,12 +1,3 @@
-# Dependencies
-node_modules/
-
-# Session Data (Security)
-LynaeSession/
-
-# Environment Variables
-.env
-config.js
 
 # Temporary & Cache Files
 temp/
@@ -15,3 +6,4 @@ npm-debug.log
 yarn-error.log
 .DS_Store
 Thumbs.db
+node_modules
